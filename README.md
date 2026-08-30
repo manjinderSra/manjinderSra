@@ -1,18 +1,24 @@
-# Hi, I'm Manjinder 👋
+<h1 align="center">
+  👋 Hey, I'm Manjinder Sra
+</h1>
 
-### Developer | Building & Learning 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Modern+Web+Experiences;Exploring+AI+%26+Automation;Always+Learning+Something+New" />
+</p>
 
-- 💻 Currently working on software development projects
-- 🌱 Learning new technologies
-- 🛠️ Interested in Web Development, AI & Open Source
-- 📫 Connect with me on GitHub
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manjinderSra&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" />
+</p>
 
-## 🛠️ Tech Stack
+---
 
-Python • JavaScript • React • Node.js • Git • GitHub
+## ⚡ About Me
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjinderSra&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjinderSra&layout=compact&theme=tokyonight)
+```js
+const manjinder = {
+  role: "Developer",
+  focus: ["Web Development", "AI", "Automation"],
+  learning: "Something new every day",
+  mindset: "Build. Break. Learn. Repeat.",
+  status: "Creating the future 🚀"
+};
